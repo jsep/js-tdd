@@ -2,14 +2,20 @@
   "name": "js-tdd",
   "version": "0.0.1",
   "devDependencies": {
+    "chai": "^1.10.0",
     "grunt": "^0.4.5",
     "grunt-contrib-jasmine": "^0.8.2",
     "grunt-karma": "^0.10.1",
     "jasmine-core": "^2.2.0",
     "karma": "^0.12.31",
+    "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.1.7",
     "karma-firefox-launcher": "^0.1.4",
     "karma-jasmine": "^0.3.5",
-    "karma-phantomjs-launcher": "^0.1.4"
+    "karma-mocha": "^0.1.10",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2"
   }
 }
